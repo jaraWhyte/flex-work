@@ -1,0 +1,38 @@
+.layout3 {
+  height: 90%;
+  max-height: 100%;
+  width: 100%;
+  background-color: rgb(243, 232, 232);
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.topnav {
+  height: 15vh;
+  width: 100%;
+  background-color: gray;
+  margin: 0px;
+  /* display: flex; */
+}
+
+.content {
+  height: 65vh;
+  width: 100%;
+  background-color: gray;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  /* display: flex; */
+}
+
+.footer {
+  height: 15vh;
+  max-height: 25vh;
+  width: 100%;
+  background-color: gray;
+  margin: 0px;
+  /* display: flex; */
+}
+
+

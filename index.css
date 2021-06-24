@@ -1,0 +1,46 @@
+.container {
+  background-color: rgb(19, 8, 8);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 50vw;
+  height: 90vh;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(247,247,247);
+  width: 50vw;
+  height: 20vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.tit {
+  height: 20vh;
+  width: 18vw;
+  background-color: rgb(168, 35, 57);
+  border-right: 2px solid black;
+}
+
+.tat {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: purple;
+  width: 32vw;
+  height: 20vh;
+}
+
+h3 {
+  color: yellow;
+}
+a:hover {
+  background-color: tomato;
+  cursor: default;
+}

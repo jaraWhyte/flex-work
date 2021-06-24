@@ -1,0 +1,98 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-start;
+  background-color: rgb(241, 235, 235);
+  margin: 0px;
+  margin: 0px;
+}
+
+.logo {
+  background-color: #aaa;
+  height: 23vh;
+  max-height: 23vh;
+  width: 450px;
+  max-width: 450px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.links {
+  background-color: #aaa;
+  height: 23vh;
+  max-height: 23vh;
+  width: 450px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.photo {
+  background-color: #aaa;
+  height: 23vh;
+  max-height: 23vh;
+  width: 450px;
+  max-width: 450px;
+  margin: 0px;
+  padding: 0px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: rgb(241, 235, 235);
+  margin: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.description {
+  background-color: #aaa;
+  height: 61vh;
+  max-height: 61vh;
+  width: 185px;
+  max-width: 185px;
+  padding: 0px;
+}
+
+.action {
+  background-color: #aaa;
+  height: 61vh;
+  max-height: 61vh;
+  width: 937px;
+  max-width: 937px;
+  padding: 0px;
+}
+
+.withdraw {
+  background-color: #aaa;
+  height: 61vh;
+  max-height: 61vh;
+  width: 185px;
+  max-width: 185px;
+  padding: 0px;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-items: flex-start;
+  background-color: rgb(241, 235, 235);
+  margin:0px;
+}
+
+.terms {
+  background-color: #aaa;
+  height: 10vh;
+  width: 900px;
+  max-width: 900px;
+  padding: 0px;
+}
+
+.end-note {
+  background-color: #aaa;
+  height: 10vh;
+  width: 900px;
+  max-width: 900px;
+  padding: 0px;
+}

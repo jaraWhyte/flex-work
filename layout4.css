@@ -1,0 +1,83 @@
+.sidenav {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 99vw;
+  max-width: 99vw;
+  height: 97vh;
+  max-height: 99vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+  
+.navbar {
+  background-color: #aaa;
+  height: 97vh;
+  max-height: 97vh;
+  width: 22vw;
+  max-width: 22vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0px;
+}
+
+.lead {
+  background-color: #aaa;
+  height: 20vh;
+  max-height: 20vh;
+  width: 20vw;
+  max-width: 20vw;
+  margin: 0px;
+}
+
+.photo {
+  background-color: #aaa;
+  height: 20vh;
+  max-height: 20vh;
+  width: 20vw;
+  max-width: 20vw;
+  margin: 0px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fff;
+  height: 97vh;
+  max-height: 97vh;
+  width: 75vw;
+  max-width: 76vw;
+  margin: 0px;
+}
+
+.description {
+  background-color: #aaa;
+  width: 75vw;
+  max-width: 76w;
+  height: 30vh;
+  max-height: 30vh;
+  margin: 0px;
+}
+
+.Action {
+background-color: #aaa;
+width: 75vw;
+max-width: 76vw;
+height: 30vh;
+max-height: 30vh;
+margin: 0px;
+}
+
+.withdraw {
+background-color: #aaa;
+width: 75vw;
+max-width: 76vw;
+height: 25vh;
+max-height: 25vh;
+margin: 0px;
+}
+

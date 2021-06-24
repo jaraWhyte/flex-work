@@ -1,0 +1,50 @@
+.navbar {
+  background-color: #aaa;
+  height: 20vh;
+  width: 100%;
+  max-width: 100vw;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.columns {
+  background-color:#fff;
+  height: 40%;
+  width: 100%;
+  max-width: 100%;
+  margin: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.description {
+  height: 400px;
+  width: 32vw;
+  max-width: 32vw;
+  background-color: #aaa;
+  border: 1px solid gray;
+}
+
+.Action {
+  height: 400px;
+  width: 32vw;
+  max-width: 32vw;
+  background-color: #aaa;
+  border: 1px solid gray;
+}
+
+.Withdraw {
+  height: 400px;
+  width: 32vw;
+  background-color: #aaa;
+  border: 1px solid gray;
+}
+
+.footer {
+  background-color: #aaa;
+  height: 9vh;
+  width: 100%;
+  margin: 0px;
+}
